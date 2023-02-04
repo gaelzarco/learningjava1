@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0480091-7fec-4012-9d3c-60c80b013507" name="Changes" comment="Today's session.">
+    <list default="true" id="e0480091-7fec-4012-9d3c-60c80b013507" name="Changes" comment="Attempting to push changes to GitHub using IntelliJ's GitHub support.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/intro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/intro/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/intro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/firstprogram/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,23 +19,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2LFNpeNy5XAngdFgDllssNzXfBg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\xarco\Desktop\FirstProgram\src" />
@@ -43,7 +46,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.intro.Main" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jre1.8.0_361" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.firstprogram.Main" />
       <module name="FirstProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675472433606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Attempting to push changes to GitHub using IntelliJ's GitHub support.">
+      <created>1675472787941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675472787941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Today's session." />
-    <option name="LAST_COMMIT_MESSAGE" value="Today's session." />
+    <MESSAGE value="Attempting to push changes to GitHub using IntelliJ's GitHub support." />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempting to push changes to GitHub using IntelliJ's GitHub support." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

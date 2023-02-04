@@ -1,4 +1,4 @@
-package com.example.intro;
+package com.firstprogram;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
