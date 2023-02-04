@@ -89,22 +89,24 @@ public class Main {
 //        System.out.println(vv);
 //        System.out.println(aa);
 //        System.out.println(bb);
+//
+//        double xVar;
+//        double yVar;
+//        double zVar;
+//
+//        Scanner scanner = new Scanner(System.in);
+//
+//        System.out.println("Enter side x:");
+//        xVar = scanner.nextDouble();
+//        System.out.println("Enter side y:");
+//        yVar = scanner.nextDouble();
+//
+//        zVar = Math.sqrt((xVar * xVar) + (yVar * yVar));
+//
+//        System.out.print("The hypotenuse is: " + zVar);
+//
+//        scanner.close();
 
-        double xVar;
-        double yVar;
-        double zVar;
-
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Enter side x:");
-        xVar = scanner.nextDouble();
-        System.out.println("Enter side y:");
-        yVar = scanner.nextDouble();
-
-        zVar = Math.sqrt((xVar * xVar) + (yVar * yVar));
-
-        System.out.print("The hypotenuse is: " + zVar);
-
-        scanner.close();
+        System.out.println("Testing learning how to use GitHub with IntelliJ IDE.");
     }
 }
